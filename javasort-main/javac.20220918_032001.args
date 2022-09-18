@@ -1,0 +1,20 @@
+-d
+"C:\\Users\\Guifr\\Documents\\facul léo\\javasort-main\\build\\classes"
+-classpath
+"C:\\Users\\Guifr\\Documents\\facul léo\\javasort-main\\build\\classes"
+-sourcepath
+"C:\\Users\\Guifr\\Documents\\facul léo\\javasort-main\\build\\empty"
+-target
+1.8
+-encoding
+UTF-8
+-g
+-processorpath
+"C:\\Users\\Guifr\\Documents\\facul léo\\javasort-main\\build\\empty"
+-s
+"C:\\Users\\Guifr\\Documents\\facul léo\\javasort-main\\build\\generated-sources\\ap-source-output"
+-source
+1.8
+"C:\\Users\\Guifr\\Documents\\facul léo\\javasort-main\\src\\javasort\\Dados.java"
+"C:\\Users\\Guifr\\Documents\\facul léo\\javasort-main\\src\\javasort\\FormSistema.java"
+"C:\\Users\\Guifr\\Documents\\facul léo\\javasort-main\\src\\javasort\\JavaMain.java"
